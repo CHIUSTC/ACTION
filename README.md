@@ -349,4 +349,5 @@ The test script will automatically test the core functions of the lottery system
 5. 添加更详细的日志记录 / Add more detailed logging
 6. 支持分布式部署 / Support distributed deployment
 7. 支持更多的数据库类型（如 MySQL、PostgreSQL） / Support more database types (such as MySQL, PostgreSQL)
+待添加
 
